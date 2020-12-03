@@ -52,7 +52,7 @@
           </div>
         </div>
         <div class="col-span-1 mx-8 lg:mx-0 space-y-8">
-          <div id="home" class="bg-white h-96 px-4 py-2 w-full max-w-none mx-auto rounded shadow prose-sm prose sm:prose">
+          <div id="home" class="bg-white h-96 px-4 py-3 w-full max-w-none mx-auto rounded shadow prose-sm prose sm:prose">
             <h3 class="title font-semibold">
               what i do
             </h3>
@@ -75,18 +75,35 @@
               </li>
             </ul>
           </div>
-          <div id="references" class="bg-white h-96 w-full mx-auto rounded shadow prose">
-            <h3 class="px-4 py-2">
+          <div id="references" class="bg-white h-96 px-4 py-3 w-full max-w-none mx-auto rounded shadow prose-sm prose sm:prose">
+            <h3 class="title font-semibold">
               my friends &amp; colleagues
             </h3>
+            <ul>
+              <li>
+                helen edmunds
+              </li>
+              <li>
+                kendall jackson (the best <a href="https://github.com/kendalled" title="developer" target="_blank">developer</a>)
+              </li>
+              <li>
+                jessica velasco
+              </li>
+              <li>
+                bela tweets 2 you
+              </li>
+              <li>
+                tia (the famous <a href="https://twitter.com/califortia" target="_blank" title="tia's twitter">video editor</a>)
+              </li>
+            </ul>
           </div>
           <div id="interests" class="bg-white h-96 w-full mx-auto rounded shadow prose">
-            <h3 class="px-4 py-2">
+            <h3 class="px-4 py-3">
               what i like
             </h3>
           </div>
           <div id="contact" class="bg-white h-96 w-full mx-auto rounded shadow prose">
-            <h3 class="px-4 py-2">
+            <h3 class="px-4 py-3">
               where to find me
             </h3>
           </div>
